@@ -29,3 +29,13 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## INSTRUCTIONS FOR MICROBIT
+
+This is the program for Microbit which enables encryption and decryption with the affine cipher
+
+A: choose a
+B: choose b
+A plus B (at the sime time): selecting the letter you want to encrypt (decrypt)
+shake: encryption/decryption
+
