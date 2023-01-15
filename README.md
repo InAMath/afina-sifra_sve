@@ -34,8 +34,12 @@ This image may take a few minutes to refresh.
 
 This is the program for Microbit which enables encryption and decryption with the affine cipher
 
+
 A: choose a
+
 B: choose b
+
 A plus B (at the sime time): selecting the letter you want to encrypt (decrypt)
+
 shake: encryption/decryption
 
